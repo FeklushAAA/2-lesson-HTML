@@ -1,0 +1,25 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    max-width: 500px;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+}
+
+li {
+    padding-bottom: 10px;
+}
+
+.steps {
+    list-style: upper-roman;
+}
+
+.products {
+    list-style: square;
+}
+
